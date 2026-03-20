@@ -1,8 +1,8 @@
  <img height="120" src="https://dataxstudios.com.br/wp-content/uploads/2024/08/DXS_ico-300x300-1.png"/>
 
-**D**igital Solutions • **X**trene Video Editing • **S**ocial Media & Marketing • **Since 2020**
+**D**igital Solutions • **X**treme Video Editing • **S**ocial Media & Marketing • **Since 2020**
 
-DATAXSTUDIOS (DXS) is a digital brand focused on delivering creative and technological solutions in Digital Development, Video Editing, and Social Media & Digital Marketing.
+DATAXSTUDIOS is a digital brand focused on delivering creative and technological solutions in Digital Development, Video Editing, and Social Media & Digital Marketing.
 
 We transform ideas into real, high‑quality digital products with innovation, flexibility, and attention to detail.
 
