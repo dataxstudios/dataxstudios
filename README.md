@@ -1,4 +1,4 @@
- <img height="120" src="https://dataxstudios.com.br/wp-content/uploads/2024/08/DXS_ico-300x300-1.png"/>
+ <img height="120" src="https://dataxstudios.com.br/images/dxs_ico-300x300.png"/>
 
 **D**igital Solutions • **X**treme Video Editing • **S**ocial Media & Marketing • **Since 2020**
 
