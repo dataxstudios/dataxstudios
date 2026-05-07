@@ -1,6 +1,6 @@
  <img height="120" src="https://dataxstudios.com.br/images/dxs_ico-300x300.webp"/>
 
-**D**igital Solutions • **X**treme Video Editing • **S**ocial Media & Marketing • **Since 2020**
+**D**igital Solutions • **X**treme Video Editing • **S**ocial Media & Marketing • **Since 2021**
 
 DATAXSTUDIOS is a digital brand focused on delivering creative and technological solutions in Digital Development, Video Editing, and Social Media & Digital Marketing.
 
@@ -33,7 +33,7 @@ We transform ideas into real, high‑quality digital products with innovation, f
 
 ## ⚡ About
 
-Founded in 2020 by Murilo, DXS was created to help creators, businesses, and brands build strong digital presence through modern technology and creative production.
+Founded in 2021, DXS was created to help creators, businesses, and brands build strong digital presence through modern technology and creative production.
 
 ![status](https://img.shields.io/badge/status-active-success)
 ![since](https://img.shields.io/badge/since-2020-blue)
