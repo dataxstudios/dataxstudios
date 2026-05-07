@@ -36,5 +36,5 @@ We transform ideas into real, high‑quality digital products with innovation, f
 Founded in 2021, DXS was created to help creators, businesses, and brands build strong digital presence through modern technology and creative production.
 
 ![status](https://img.shields.io/badge/status-active-success)
-![since](https://img.shields.io/badge/since-2020-blue)
+![since](https://img.shields.io/badge/since-2021-blue)
 ![focus](https://img.shields.io/badge/focus-digital-orange)
